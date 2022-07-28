@@ -1,0 +1,15 @@
+[
+  {
+    "jd_sentence_text": "Experience working in an Agile/Scrum",
+    "jd_sent_manual_label_NEW": "experience",
+    "NER_label": [
+      [25, 30, "PRACTICE"],
+      [31, 36, "PRACTICE"]
+    ]
+  },
+  {
+    "jd_sentence_text": "Experience with source control and automated build systems",
+    "jd_sent_manual_label_NEW": "experience",
+    "NER_label": [[16, 30, "LIBRARY"]]
+  }
+]
